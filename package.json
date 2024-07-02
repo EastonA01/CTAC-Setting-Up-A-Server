@@ -1,0 +1,19 @@
+{
+  "name": "settingupaserver",
+  "version": "0.0.1",
+  "description": "Set up a basic Node.js server to handle HTTP requests",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EastonA01/CTAC-Setting-Up-A-Server.git"
+  },
+  "author": "EastonA01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EastonA01/CTAC-Setting-Up-A-Server/issues"
+  },
+  "homepage": "https://github.com/EastonA01/CTAC-Setting-Up-A-Server#readme"
+}
